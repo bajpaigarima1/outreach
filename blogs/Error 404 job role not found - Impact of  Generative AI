@@ -1,0 +1,55 @@
+About the author  
+
+[Garima Bajpai](https://www.linkedin.com/in/garimabajpai/)  is thought leader in DevOps & Cloud technologies. She is the founder of DevOps Community of Practice, Canada. 
+
+Generative AI impacting key job roles 
+
+Many of us are wondering if generative AI will be friend or foe to our roles. It is a topic for DevOps community who has been at forefront when it comes to onboarding new technologies. Our DevOps communities have been enabling and fostering the collaborative cultural shift, hand in hand evolving roles and responsibilities for software professionals. In this article we will try to oversee the indulgence of generative AI in the key roles when it comes to DevOps and try to outline the impact on key jobs, outlook and how do we prepare ourselves for the shift. 
+
+Let us start from some basic roles, and their broad area of responsibility in the DevOps era. This section will enable us with the common vocabulary for the next section, where we delve into the impact with key trends in making. 
+
+Overview of DevOps roles 
+
+DevOps roles are in making since a decade and these roles are evolving as we go along. These roles came into existence through transformation in big and small companies who adopted DevOps principles and practices. Many organizations have fostered DevOps transformation through embracing change and onboarding new roles to the team. [PagerDuty](https://www.pagerduty.com/resources/learn/essential-devops-roles/) outlined six main roles for modern organization which have helped carrying the DevOps ways. 
+
+1.  The DevOps Evangelist: Responsible for delivering the change, collaborating with dev and ops teams, and working towards optimizing flow, enabling feedback, and fostering experimentation. 
+
+1.  The Code Release Manager: Responsible for creating cadence between delivery and deployment of code. This role often requires deep technical expertise, to run and maintain the releases. 
+
+1.  The Automation Architect: Responsible for designing, implementing automated pipeline & reducing manual toil. 
+
+1.  The Experience Assurance Expert: Responsible for user experience, enabling feedback loops and ensuring superior experience, assessing feature performance, and improving the end-product usability. 
+
+1.  The Software Developer & Tester: Developer and testers are responsible for design & development of the software product. Prime responsibilities are writing code, testing, and fixing bugs. 
+
+1.  The Security and Compliance Engineer: Responsible for the overall security and compliance of the software product. Collaborating with all the above roles to ensure standards and regulations are implemented. 
+
+All the above roles are expected to work across the value chain to maximize the impact. Note that there are many other roles, including leadership and executive roles which we have not covered in this article. As a next step, we try to figure out the impact of generative AI on some of these roles in the next section. 
+
+Adding Generative AI to every job role: Before diving deep into the business value of adding generative AI to job roles, let's build a common vocabulary.  According to [Gartner](https://www.gartner.com/en/topics/generative-ai)  - Generative AI can learn from existing artifacts to generate new, realistic artifacts (at scale) that reflect the characteristics of the training data but don't repeat it. It can produce a variety of novel content, such as images, video, music, speech, text, software code and product designs.What can Generative AI do? How did it got hyped? Let's explore further. 
+
+1.  Automated Code Generation: There is a substantial rise in AI augmented code generation tools which serve as companion for developer and testers. Starting from GitHub Copilot, developed by GitHub in collaboration with OpenAI which primarily offers predictive code generation, support multiple languages and great way to train and reskill the staff. Tabnine, another tool stands out with deep learning capabilities supporting 20 programming languages. The Software Developer & Tester, would they do other things while the Generative AI tools write code? May be not too soon, too early! 
+
+Software developers will have more user-friendly  tools to support the journey and probably slow down the race for hiring developers however the core job of practitioners will be to focus on business value driven development rather just writing too much code. It may also result in generative AI based moderators, a new job role in making! These moderators can help you with exporting or reusing existing code rather than trying to re-invent. 
+
+1.  AI based release management:  From simplified approach for generating release notes to boosting productivity of the feature release. Precise release cadence, generative AI based tools are coming to our rescue. So, what does it mean for release manager? For example, Digital.ai, introduces predictive decision making, threat insights and many more features orchestrate releases. Another example K8sGPT is a tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.  More integration of generative AI is on the way for tools. Release manager's role is at a pivotal point, one of the role which will evolve with time and new skills to manage real-time releases, integration with several channels special edition software, classic upgrades and core software releases. address different customer segment with managed subscription based, open-source versions etc and most important is human- centric approach to software releases. 
+
+1.  Security and Compliance engineer: One of the recent announcements that jFrog, the DevSecOps company is integrating generative AI capability into Xray and Antifactory. It will automatically detect security flaws and license violations etc. early and more often. Another example is a survey of 404 IT professionals conducted by [Snyk](https://snyk.io/%22%20/t%20%22_blank) found the use of artificial intelligence (AI) to write code is creating a security paradox.  Meanwhile apart from generating code, generative AI can be used for simulating malware attacks to be identifying vulnerabilities etc. However, this is a double-edge sword as it also can be used to enhance the portfolio of bad actors. What does it mean for Security and Compliance engineers? More focus on regulatory, assessment, audits and validation of generative AI outcome are required from this set of persona type. Specialist knowledge, decision making, ethical evaluation is needed for a strategic approach towards next generation cyber capabilities. There is plenty of room for Security and Compliance engineers with generative AI indulgence. 
+
+1.  The Automation Architect: The automation architect could be responsible for decomposing complex task, so they have been automated through reusable code generated in any language. The tasks when automated through auto generated tools can be more sustainable, less rework and delays. As an automation architect, generative AI is another tool in the toolset to be more efficient and productive. Generative AI can help automation architects to scale and allow self-service options for the teams to automate redundant tasks, though AI coding assistants. 
+
+Generative AI impacting key job roles. 
+
+As discussed in the previous section, there are many jobs which will be transformed in the coming days. With generative AI influence, we will see a shift in the approach for fulfilling short-term skill gap to a long-term flexible workforce model. Many companies will view generative AI enhanced tools as pot of gold where most of the work which requires building templates, infrastructure provisioning, log analysis, reuse or refactor code can be done with the help of tools. 
+
+-   Short-term fulfilling skill gap - Software related Skill gap is everywhere; the actions companies will take is more than reskilling. It is investing in capabilities and tools to fulfill the gap quickly and repurpose skilled staff to more relevant jobs. The role of leaders is key for successful transitioning into the new era of workforce modelling. But wait, what should be our strategy to improve our productivity as DevOps people? We could approach it with same mindset, look at it more than reskilling. It is about investing in capabilities and tools to fill the skill gap. 
+
+-   Mid-term talent augmentation -- Role disruption is most likely  to happen; research and more structured approach is needed to address the upcoming change. Focus on communication patterns, onboarding of human-machine collaborative models and ensuring performance of the new work models. Copyright, IP, licensing, and use of open-source technology will be essential ingredients of mid-term talent augmentation with generative AI.  
+
+-   Long-term flexible workforce -- With widespread and massive onboarding of generative AI in long term, it will require a pragmatic approach towards flexible workforce modelling. Task-based frameworks will emerge to guide the flexible orchestration of workforce, roles, or even jobs or tasks. It might happen that the task-based framework will mature into capability driven approve towards flexible workforce where human-machine together will deliver outcome.   
+
+In this section we looked at the possible impact, strategy to mitigate the big bang disruption in the job roles by pragmatic creating a step wise approach to integrate generative AI into the skillset, job roles and workforce in short-term to long-term. 
+
+Conclusion  
+
+Concluding this article, with rapid advancement in  technology companies will be forced to design new ways of working to keep pace with the changing dynamics. It is purely on us to be one step ahead, we the DevOps people! This is an opportunity to pivot ahead in the curve, why not start with your own task-based framework,  Tasked-based framework will allow you to assess the productivity and enhance it with new tools and capabilities from time to time and helping you to be ahead in the curve.
